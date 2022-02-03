@@ -9,3 +9,7 @@
 4)test('should first', () => {
   ;
 });
+
+6)test('should first', () => {
+  ;
+});
